@@ -1,3 +1,235 @@
+Parfait 👌 Tu veux donc une **leçon complète et claire** sur le chapitre :
+📘 **Les paramètres d’une série statistique (niveau 3e collège en France)**
+avec :
+
+* une **explication détaillée du cours**,
+* des **exemples concrets**,
+* des **exercices classés par niveau (facile, moyen, difficile)**,
+* et **les corrections détaillées**.
+
+Voici un **cours complet prêt à enseigner** 👇
+
+---
+
+# 📊 Chapitre : Les paramètres d’une série statistique
+
+---
+
+## 🧠 1. Introduction
+
+En mathématiques, **une série statistique** est un ensemble de **données chiffrées** recueillies lors d’une étude.
+Exemples :
+
+* Les notes d’un élève dans une matière.
+* L’âge des personnes dans une classe.
+* La taille des joueurs d’une équipe.
+
+Pour **résumer** et **analyser** ces données, on calcule des **paramètres statistiques** comme :
+
+* l’**effectif**,
+* la **fréquence**,
+* la **moyenne**,
+* la **médiane**,
+* les **quartiles**,
+* l’**étendue**.
+
+---
+
+## 🧩 2. Les notions de base
+
+### 🔹 a) Effectif total
+
+C’est le **nombre total de données**.
+
+Exemple :
+Âges : 12, 13, 12, 14, 13, 12
+➡️ Effectif total = **6**
+
+---
+
+### 🔹 b) Fréquence
+
+C’est la **proportion d’une valeur** dans la série.
+
+Formule :
+[
+\text{Fréquence} = \frac{\text{Effectif de la valeur}}{\text{Effectif total}}
+]
+
+Exemple :
+Valeur 12 apparaît **3 fois sur 6**
+➡️ Fréquence = 3/6 = **0,5 = 50 %**
+
+---
+
+### 🔹 c) Étendue
+
+C’est la **différence entre la plus grande et la plus petite valeur**.
+Elle mesure **la dispersion** des données.
+
+Formule :
+[
+\text{Étendue} = \text{Valeur max} - \text{Valeur min}
+]
+
+Exemple :
+Notes : 8, 10, 12, 14, 16
+➡️ Étendue = 16 − 8 = **8**
+
+---
+
+## ⚖️ 3. La moyenne
+
+C’est **le centre de gravité des données**.
+
+Formule :
+[
+\bar{x} = \frac{\text{Somme des valeurs}}{\text{Nombre de valeurs}}
+]
+
+Exemple :
+Notes : 10, 12, 15
+[
+\bar{x} = \frac{10 + 12 + 15}{3} = \frac{37}{3} \approx 12,33
+]
+
+---
+
+## 📍 4. La médiane
+
+C’est **la valeur qui partage la série en deux parties égales** :
+
+* 50 % des valeurs sont **en dessous**,
+* 50 % **au-dessus**.
+
+⚠️ Il faut **classer les valeurs dans l’ordre croissant** avant de chercher la médiane.
+
+### Cas 1 : nombre impair de valeurs
+
+➡️ La médiane est la **valeur du milieu**.
+Exemple : 2, 4, 6, 8, 10, 12, 14
+→ Médiane = **8**
+
+### Cas 2 : nombre pair de valeurs
+
+➡️ La médiane est la **moyenne des deux valeurs centrales**.
+Exemple : 10, 12, 14, 16, 18, 20
+→ Médiane = (14 + 16)/2 = **15**
+
+---
+
+## 📊 5. Les quartiles
+
+Les **quartiles** permettent de découper la série en **4 parties égales**.
+
+* **Q1** (premier quartile) : 25 % des valeurs ≤ Q1
+* **Q3** (troisième quartile) : 75 % des valeurs ≤ Q3
+
+Exemple :
+Valeurs triées : 8, 10, 10, 12, 12, 14, 14, 16, 18, 20
+
+* Q1 = 3ᵉ valeur = **10**
+* Q3 = 8ᵉ valeur = **16**
+
+---
+
+# 🧮 EXERCICES
+
+---
+
+## 🟢 Niveau facile
+
+### 🔸 Exercice 1 :
+
+Les notes suivantes sont obtenues :
+8, 10, 12, 10, 14
+
+1. Calcule l’effectif total.
+2. Trouve la valeur minimale et maximale.
+3. Calcule l’étendue.
+4. Calcule la moyenne.
+
+✅ **Correction :**
+
+1. Effectif = 5
+2. Min = 8, Max = 14
+3. Étendue = 14 − 8 = **6**
+4. Moyenne = (8 + 10 + 12 + 10 + 14)/5 = 54/5 = **10,8**
+
+---
+
+## 🟡 Niveau moyen
+
+### 🔸 Exercice 2 :
+
+Les tailles (en cm) d’un groupe d’élèves sont :
+150, 152, 155, 158, 160, 160, 162, 165, 168, 170
+
+1. Calcule la moyenne.
+2. Trouve la médiane.
+3. Donne Q1 et Q3.
+4. Calcule l’étendue.
+
+✅ **Correction :**
+
+1. Moyenne = (150 + 152 + 155 + 158 + 160 + 160 + 162 + 165 + 168 + 170)/10 = 1610/10 = **161 cm**
+2. Médiane = moyenne des 5ᵉ et 6ᵉ valeurs = (160 + 160)/2 = **160 cm**
+3. Q1 = 3ᵉ valeur = **155 cm**, Q3 = 8ᵉ valeur = **165 cm**
+4. Étendue = 170 − 150 = **20 cm**
+
+---
+
+## 🔴 Niveau difficile
+
+### 🔸 Exercice 3 :
+
+Les notes d’un groupe d’élèves à un test :
+5, 6, 8, 10, 10, 12, 13, 14, 15, 15, 16, 18, 19, 19, 20
+
+1. Calcule la moyenne.
+2. Trouve la médiane.
+3. Donne Q1 et Q3.
+4. Calcule l’étendue.
+5. Interprète les résultats (dispersion, tendance centrale).
+
+✅ **Correction :**
+
+1. Moyenne = (somme des notes) / 15 = (5 + 6 + 8 + 10 + 10 + 12 + 13 + 14 + 15 + 15 + 16 + 18 + 19 + 19 + 20) ÷ 15 = 200 ÷ 15 ≈ **13,3**
+2. Médiane = 8ᵉ valeur (car 15 valeurs) → **14**
+3. Q1 = 4ᵉ valeur = **10**, Q3 = 12ᵉ valeur = **18**
+4. Étendue = 20 − 5 = **15**
+5. Interprétation :
+
+   * Moyenne ≈ 13,3 → niveau général correct.
+   * Médiane = 14 → la moitié a ≥ 14.
+   * Étendue = 15 → résultats assez dispersés.
+   * Q1 = 10, Q3 = 18 → la majorité des notes entre **10 et 18**.
+
+---
+
+## 🧾 Synthèse à rappeler à ton élève :
+
+| Paramètre | Rôle                    | Formule / Méthode        |
+| --------- | ----------------------- | ------------------------ |
+| Effectif  | Nombre total de données | Compter les valeurs      |
+| Fréquence | Proportion              | effectif ÷ total         |
+| Moyenne   | Tendance centrale       | somme ÷ effectif         |
+| Médiane   | Valeur centrale         | milieu de la série triée |
+| Q1 / Q3   | Quartiles               | 25 % / 75 % des valeurs  |
+| Étendue   | Dispersion              | max − min                |
+
+---
+
+Souhaites-tu que je te prépare une **version PDF claire et imprimable** de ce cours (avec tableau, formules et exercices sur une fiche complète) pour que tu l’utilises pendant ta séance ?
+
+
+
+
+
+
+
+---  
+---
 # 📊 Cours sur les Quartiles (Statistiques)
 
 ## 🧠 Introduction
